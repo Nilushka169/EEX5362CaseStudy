@@ -1,4 +1,4 @@
-﻿# EEX5362 Mini Project
+﻿# EEX5362 Case Study
 
 🖨️ Office Print Queue Simulation
 
@@ -23,4 +23,5 @@ Install it with: pip install openpyxl
 4. After it runs, it will create:
    * `results.txt`
    * `results.xlsx`
+
 
